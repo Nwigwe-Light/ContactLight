@@ -16,8 +16,7 @@ It’s designed to integrate seamlessly with **Google Forms** for backend-free f
 ---
 
 ## 📸 Screenshot
-![Project Screenshot](img/screenshot.jpg)  
-*(Replace with your actual screenshot path)*
+![Project Screenshot](img/screenshot.jpg)
 
 ---
 
